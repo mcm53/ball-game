@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 13830d6c8a6e7c244a28965e805cfafe
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 99aedadcb232bc74fa5863ed434a9a4c
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: 3b0a320097f13b54b87ddff384236c88
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: 119536f389eb4774bb9ebea895c2f76b
+  - enabled: 1
+    path: Assets/Scenes/Level4.unity
+    guid: 421f8dc0e91e23e4d967bc4814c4207f
+  - enabled: 1
+    path: Assets/Scenes/Level5.unity
+    guid: e605b8dfe1aaf48428fb0b8bdbfb852f
+  - enabled: 1
+    path: Assets/Scenes/Level6.unity
+    guid: f333d9a88d20ef74b92b2c13b41b8436
+  - enabled: 1
+    path: Assets/Scenes/Level7.unity
+    guid: 5129b510b0b9def4082387b7ac7ac5b0
+  - enabled: 1
+    path: Assets/Scenes/Level8.unity
+    guid: b813066da2f0ff1479b30767bb1fef71
+  - enabled: 1
+    path: Assets/Scenes/Level9.unity
+    guid: 78d4277b57ff96948b949f41d0d0291f
+  - enabled: 1
+    path: Assets/Scenes/Level10.unity
+    guid: c7e2f1db6dad9c941b224ebcf7e64f8b
+  m_configObjects: {}
